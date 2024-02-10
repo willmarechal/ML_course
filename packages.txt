@@ -6,15 +6,16 @@ scikit-optimize
 Salib
 pyomo
 bayesian-optimization
-sklearn==1.3.0
+sklearn
 tensorflow
 xgboost
 keras
 autokeras
-keras_tuner==1.3
+keras_tuner
 yping-extensions --upgrade
 folium
 opendatasets
 jovian --upgrade --quiet
 xlrd
 scipy
+scikeras
