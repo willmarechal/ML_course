@@ -5,6 +5,7 @@ seaborn
 scikit-optimize
 Salib
 pyomo
+pymoo
 bayesian-optimization
 sklearn
 tensorflow
