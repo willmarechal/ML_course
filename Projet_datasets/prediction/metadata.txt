@@ -1,4 +1,4 @@
-About this file
+Informations sur les données:
 date time year-month-day hour:minute:second
 Appliances, energy use in Wh
 lights, energy use of light fixtures in the house in Wh
@@ -29,4 +29,10 @@ Tdewpoint (from Chievres weather station), Â°C
 rv1, Random variable 1, nondimensional
 rv2, Random variable 2, nondimensional
 
-Where indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data.
+Lorsque cela est indiqué, les données horaires (ensuite interpolées) de la station météorologique de l'aéroport le plus proche (aéroport de Chièvres, Belgique) ont été téléchargées à partir d'un ensemble de données publiques de Reliable Prognosis, rp5.ru. L'autorisation de Reliable Prognosis a été obtenue pour la distribution des 4,5 mois de données météorologiques.
+
+Il vous est demandé de faire un rapport un rapport présentant le jeu de données et une ou des utilisations possibles. Vous pouvez tenir compte des recommandations ci-dessus ou partir dans une autre direction en justifiant. Le rapport pourra contenir une présentation et une justification de vous calculs. La mise en annexe du ou des codes ayant servi au projet est recommandé.
+
+Au jeu de données qui est assigné, vous pourriez le compléter par d'autres données en justifiant leurs pretinances. Des données météo peuvent être obtenus sur les sites suivant.
+https://disc.gsfc.nasa.gov/datasets?project=MERRA-2
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=form
