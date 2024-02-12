@@ -1,18 +1,18 @@
-# Metadata for Voluntary Disclosed Building Energy Performance Data
+# Métadonnées pour les données sur la performance énergétique des bâtiments divulguées volontairement
 ---
-Identifier: 'e3807d35-9373-4d74-b8ca-e5c70f397685'
-Name: 'building-energy-performance-data'
-Title: 'Voluntary Disclosed Building Energy Performance Data'
+Identifiant: 'e3807d35-9373-4d74-b8ca-e5c70f397685'
+Nom: 'building-energy-performance-data'
+Titre: 'Voluntary Disclosed Building Energy Performance Data'
 Description:
-  - 'This dataset contains building energy performance data of all commercial buildings
-    in Singapore.'
+  - Ce jeu de données contient des données sur la performance énergétique de tous les bâtiments commerciaux à Singapour.
+    à Singapour.''
   - ''
-  - 'Data is collected through the Annual Mandatory Submission of Building Information
-    and Energy Consumption Data Legislation through BCA’s Building Energy Submission
-    System (BESS), mandated under Section 22FJ of the Building Control Act.'
+  - Les données sont collectées dans le cadre de la législation sur la soumission obligatoire annuelle d'informations sur les bâtiments et de données sur la consommation d'énergie, par l'intermédiaire de la BCA.
+    et des données sur la consommation d'énergie par l'intermédiaire du Building Energy Submission System (BESS) de la BCA, mandaté en vertu de la section 22FJ de la loi sur la construction.
+    System (BESS) de la BCA, mandaté par la section 22FJ de la loi sur le contrôle des bâtiments.
 Topics:
   - 'Infrastructure'
-Keywords:
+mots clés:
   - 'Energy'
   - 'Property'
   - 'energy performance data'
@@ -115,3 +115,15 @@ Resources:
         Description:
           - 'Y = Yes'
           - 'N = No'
+
+
+	X7	Glazing Area 
+	X8	Glazing Area Distribution 
+	y1	Heating Load 
+	y2	Cooling Load
+
+Il vous est demandé de faire un rapport un rapport présentant le jeu de données et une ou des utilisations possibles. Vous pouvez tenir compte des recommandations ci-dessus ou partir dans une autre direction en justifiant. Le rapport pourra contenir une présentation et une justification de vous calculs. La mise en annexe du ou des codes ayant servi au projet est recommandé.
+
+Au jeu de données qui est assigné, vous pourriez le compléter par d'autres données en justifiant leurs pretinances. Des données météo peuvent être obtenus sur les sites suivant.
+https://disc.gsfc.nasa.gov/datasets?project=MERRA-2
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=form
