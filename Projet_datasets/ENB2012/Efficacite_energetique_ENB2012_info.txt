@@ -1,19 +1,22 @@
- # Energy efficiency
+ # Efficacité énergétique
 
-Data Set Information:
-Eenergy analysis was performed using 12 different building shapes simulated in Ecotect. 
-The buildings differ with respect to the glazing area, the glazing area distribution, and the orientation, amongst other parameters. 
-We simulate various settings as functions of the afore-mentioned characteristics to obtain 768 building shapes. 
-The dataset comprises 768 samples and 8 features, aiming to predict two real valued responses. 
-It can also be used as a multi-class classification problem if the response is rounded to the nearest integer.
+ Informations sur l'ensemble de données:
 
-Adding cooling load and heating load can define the overall load of the apartment. 
-Study the trend of overall load and divide it into three classes, low efficient, high efficient and average efficient. 
-Then train a deep learning model to predict the label. 
+ Une analyse énergétique a été réalisée sur 12 formes de bâtiments différentes simulées dans Ecotect.
+Les bâtiments diffèrent par la surface vitrée, la distribution de la surface vitrée et l'orientation, entre autres paramètres.
+Nous simulons différents paramètres en fonction des caractéristiques susmentionnées pour obtenir 768 formes de bâtiments.
+L'ensemble de données comprend 768 échantillons et 8 caractéristiques, visant à prédire deux réponses à valeur réelle.
+Il peut également être utilisé comme problème de classification multi-classes si la réponse est arrondie à l'entier le plus proche.
 
+ Objectifs:
 
-The dataset contains eight attributes (or features, denoted by X1...X8) and two responses (or outcomes, denoted by y1 and y2). 
-Specifically: 
+L'ajout de la charge de refroidissement et de la charge de chauffage permet de définir la charge globale de l'appartement.
+Étudier la tendance de la charge globale et la diviser en trois classes : faible efficacité, haute efficacité et efficacité moyenne.
+Ensuite, entraîner un modèle d'apprentissage profond pour prédire l'étiquette.
+ Caractéristiques et réponses:
+
+ L'ensemble de données contient huit attributs (ou caractéristiques, désignés par X1...X8) et deux réponses (ou résultats, désignés par y1 et y2).
+Précisément: 
 	X1	Relative Compactness 
 	X2	Surface Area 
 	X3	Wall Area 
@@ -24,3 +27,11 @@ Specifically:
 	X8	Glazing Area Distribution 
 	y1	Heating Load 
 	y2	Cooling Load
+
+Il vous est demandé de faire un rapport un rapport présentant le jeu de données et une ou des utilisations possibles. Vous pouvez tenir compte des recommandations ci-dessus ou partir dans une autre direction en justifiant. Le rapport pourra contenir une présentation et une justification de vous calculs. La mise en annexe du ou des codes ayant servi au projet est recommandé.
+
+Au jeu de données qui est assigné, vous pourriez le compléter par d'autres données en justifiant leurs pretinances. Des données météo peuvent être obtenus sur les sites suivant.
+https://disc.gsfc.nasa.gov/datasets?project=MERRA-2
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=form
+
+
