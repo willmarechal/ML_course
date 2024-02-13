@@ -29,6 +29,7 @@ Précisément:
 	y2	Cooling Load
 
 Il vous est demandé de faire un rapport un rapport présentant le jeu de données et une ou des utilisations possibles. Vous pouvez tenir compte des recommandations ci-dessus ou partir dans une autre direction en justifiant. Le rapport pourra contenir une présentation et une justification de vous calculs. La mise en annexe du ou des codes ayant servi au projet est recommandé.
+Le projet est a réaliser en binôme, le rapport devra inclure une répartition en pourcentage de l'implication de chacun dans le projet. La date de rendu des projets a été fixé au vendredi 08/03/2024.
 
 Au jeu de données qui est assigné, vous pourriez le compléter par d'autres données en justifiant leurs pretinances. Des données météo peuvent être obtenus sur les sites suivant.
 https://disc.gsfc.nasa.gov/datasets?project=MERRA-2
