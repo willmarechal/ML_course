@@ -56,4 +56,75 @@ b) Sauvegarde du modèle pour une utilisation ultérieure
 
 6. Conclusions
 
+**<ins>Notebook 2</ins>**
+
+1-3. idem
+
+4. Optimisation du processus à l'aide du cadre bayésien
+
+a) Charger le modèle de substitution créé dans le Notebook 1
+
+b) Définir les fonctions d'objectif, d'acquisition et d'optimisation
+
+c) Processus d'optimisation
+
+5. Conclusions
+
+**<ins>Notebook 3</ins>**
+
+1-3. idem
+
+4. Processus d'optimisation à l'aide de Pyomo
+
+a) Créer un modèle et définir les contraintes
+
+b) Définir la fonction objective
+
+c) Processus d'optimisation à l'aide des solveurs IPOPT et Gurobi
+
+5. Conclusions
+
+**<ins>Notebook 4</ins>**
+
+1-3. idem
+
+4. Processus d'optimisation à l'aide de l'AG avec recherche locale
+
+a) Définir la fonction objective à l'aide du modèle de substitution pré-entraîné
+
+b) Définir l'espace de recherche et les paramètres de l'algorithme génétique
+
+c) Définir l'opérateur de recherche locale à l'aide d'un algorithme stochastique
+
+d) Optimisation à l'aide de l'AG avec recherche locale 
+
+5. Conclusions
+
+**<ins>Notebook 5</ins>**
+
+1-3. idem
+
+4. Optimisation multi-objectifs à l'aide de Pymoo
+
+a) Définir le problème et évaluer la fonction du modèle de substitution
+
+b) Définir l'espace de recherche et les paramètres de l'algorithme NSGA-II
+
+c) Définir les critères de fin de convergence et la fonction de rappel pour stocker la solution optimale
+
+d) Effectuer l'optimisation pour un nombre fixe d'itérations
+
+5. Conclusions
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Référence
+
+[1]	Tsanas, A. and Xifara, A. 2012. Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools. Energy and Buildings 49: 560–567. https://doi.org/10.1016/j.enbuild.2012.03.003
+
+**<ins>Notebook AG </ins>**
+
+4. Optimisation à l'aide d'un algorithme génétique avec recherche locale
+
+5. Conclusions
+
 
